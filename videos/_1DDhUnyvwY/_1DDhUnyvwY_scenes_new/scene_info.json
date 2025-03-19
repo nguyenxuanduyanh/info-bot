@@ -1,0 +1,350 @@
+[
+  {
+    "scene_number": 1,
+    "start_frame": 0,
+    "end_frame": 543,
+    "start_time": 0.0,
+    "end_time": 21.76,
+    "duration": 21.76,
+    "scene_path": "videos/_1DDhUnyvwY/_1DDhUnyvwY_scenes_new/scene_001.mp4",
+    "processed_frames_folder": "videos/_1DDhUnyvwY/_1DDhUnyvwY_scenes_new/processed_frames/scene_001",
+    "captions": [
+      {
+        "text": "[Music]",
+        "start": 3.17,
+        "end": 6.349
+      }
+    ],
+    "transcript": []
+  },
+  {
+    "scene_number": 2,
+    "start_frame": 544,
+    "end_frame": 895,
+    "start_time": 21.76,
+    "end_time": 35.84,
+    "duration": 14.080000000000002,
+    "scene_path": "videos/_1DDhUnyvwY/_1DDhUnyvwY_scenes_new/scene_002.mp4",
+    "processed_frames_folder": "videos/_1DDhUnyvwY/_1DDhUnyvwY_scenes_new/processed_frames/scene_002",
+    "captions": [
+      {
+        "text": "[Music]",
+        "start": 1.7099999999999973,
+        "end": 9.129999999999999
+      },
+      {
+        "text": "I remember I was struck by the harmony",
+        "start": 4.84,
+        "end": 12.129999999999999
+      },
+      {
+        "text": "of color in the forest shades of yellow",
+        "start": 9.129999999999999,
+        "end": 14.080000000000002
+      }
+    ],
+    "transcript": [
+      {
+        "text": "I remember I was struck by the harmony of color in the forest, shades of yellow and",
+        "start": 6.67,
+        "end": 12.57
+      }
+    ]
+  },
+  {
+    "scene_number": 3,
+    "start_frame": 896,
+    "end_frame": 1250,
+    "start_time": 35.84,
+    "end_time": 50.04,
+    "duration": 14.199999999999996,
+    "scene_path": "videos/_1DDhUnyvwY/_1DDhUnyvwY_scenes_new/scene_003.mp4",
+    "processed_frames_folder": "videos/_1DDhUnyvwY/_1DDhUnyvwY_scenes_new/processed_frames/scene_003",
+    "captions": [
+      {
+        "text": "and green deepening to the browns and",
+        "start": 0,
+        "end": 4.169999999999995
+      },
+      {
+        "text": "purples the way the vines curled up",
+        "start": 0.779999999999994,
+        "end": 6.359999999999992
+      },
+      {
+        "text": "through the trees clinging to twigs and",
+        "start": 4.169999999999995,
+        "end": 9.659999999999997
+      },
+      {
+        "text": "branches the gentle breeze rustled the",
+        "start": 6.359999999999999,
+        "end": 12.060000000000002
+      }
+    ],
+    "transcript": []
+  },
+  {
+    "scene_number": 4,
+    "start_frame": 1251,
+    "end_frame": 1623,
+    "start_time": 50.04,
+    "end_time": 64.96,
+    "duration": 14.919999999999995,
+    "scene_path": "videos/_1DDhUnyvwY/_1DDhUnyvwY_scenes_new/scene_004.mp4",
+    "processed_frames_folder": "videos/_1DDhUnyvwY/_1DDhUnyvwY_scenes_new/processed_frames/scene_004",
+    "captions": [
+      {
+        "text": "leaves so that the shining stars of",
+        "start": 0,
+        "end": 5.93
+      },
+      {
+        "text": "light gleamed and winked I was keenly",
+        "start": 0,
+        "end": 10.268999999999998
+      },
+      {
+        "text": "aware of secret movements in the trees",
+        "start": 5.93,
+        "end": 10.268999999999998
+      }
+    ],
+    "transcript": [
+      {
+        "text": "I was keenly aware of secret movements in the trees.",
+        "start": 4.85,
+        "end": 8.57
+      }
+    ]
+  },
+  {
+    "scene_number": 5,
+    "start_frame": 1624,
+    "end_frame": 2047,
+    "start_time": 64.96,
+    "end_time": 81.92,
+    "duration": 16.960000000000008,
+    "scene_path": "videos/_1DDhUnyvwY/_1DDhUnyvwY_scenes_new/scene_005.mp4",
+    "processed_frames_folder": "videos/_1DDhUnyvwY/_1DDhUnyvwY_scenes_new/processed_frames/scene_005",
+    "captions": [
+      {
+        "text": "[Music]",
+        "start": 0,
+        "end": 9.049000000000007
+      },
+      {
+        "text": "I looked into his large and lustrous",
+        "start": 7.009,
+        "end": 12.349999999999994
+      },
+      {
+        "text": "eyes they seemed somehow to express his",
+        "start": 9.049000000000007,
+        "end": 15.530000000000001
+      },
+      {
+        "text": "entire personality his serene self",
+        "start": 12.350000000000009,
+        "end": 16.750000000000014
+      }
+    ],
+    "transcript": []
+  },
+  {
+    "scene_number": 6,
+    "start_frame": 2048,
+    "end_frame": 2431,
+    "start_time": 81.92,
+    "end_time": 97.28,
+    "duration": 15.36,
+    "scene_path": "videos/_1DDhUnyvwY/_1DDhUnyvwY_scenes_new/scene_006.mp4",
+    "processed_frames_folder": "videos/_1DDhUnyvwY/_1DDhUnyvwY_scenes_new/processed_frames/scene_006",
+    "captions": [
+      {
+        "text": "assurance",
+        "start": 0,
+        "end": 3.48899999999999
+      },
+      {
+        "text": "what an amazing privilege it was to be",
+        "start": 0,
+        "end": 6.459999999999994
+      },
+      {
+        "text": "utterly accepted thus by a wild free",
+        "start": 3.4890000000000043,
+        "end": 9.088999999999999
+      },
+      {
+        "text": "animal",
+        "start": 6.459999999999994,
+        "end": 9.088999999999999
+      }
+    ],
+    "transcript": [
+      {
+        "text": "What an amazing privilege it was to be utterly accepted thus by a wild, free animal.",
+        "start": 0.24,
+        "end": 7.08
+      }
+    ]
+  },
+  {
+    "scene_number": 7,
+    "start_frame": 2432,
+    "end_frame": 2709,
+    "start_time": 97.28,
+    "end_time": 108.4,
+    "duration": 11.120000000000005,
+    "scene_path": "videos/_1DDhUnyvwY/_1DDhUnyvwY_scenes_new/scene_007.mp4",
+    "processed_frames_folder": "videos/_1DDhUnyvwY/_1DDhUnyvwY_scenes_new/processed_frames/scene_007",
+    "captions": [
+      {
+        "text": "I lay there part of the forest and",
+        "start": 0,
+        "end": 3.299999999999997
+      },
+      {
+        "text": "experienced again that magical",
+        "start": 1.230000000000004,
+        "end": 6.329999999999998
+      },
+      {
+        "text": "enhancement of sound that added richness",
+        "start": 3.299999999999997,
+        "end": 9.030000000000001
+      },
+      {
+        "text": "of perception",
+        "start": 6.329999999999998,
+        "end": 11.120000000000005
+      }
+    ],
+    "transcript": [
+      {
+        "text": "of the forest and experienced again that magical enhancement of sound, that added richness",
+        "start": 0.0,
+        "end": 6.28
+      }
+    ]
+  },
+  {
+    "scene_number": 8,
+    "start_frame": 2710,
+    "end_frame": 3001,
+    "start_time": 108.4,
+    "end_time": 120.08,
+    "duration": 11.679999999999993,
+    "scene_path": "videos/_1DDhUnyvwY/_1DDhUnyvwY_scenes_new/scene_008.mp4",
+    "processed_frames_folder": "videos/_1DDhUnyvwY/_1DDhUnyvwY_scenes_new/processed_frames/scene_008",
+    "captions": [
+      {
+        "text": "[Music]",
+        "start": 0,
+        "end": 4.989999999999995
+      },
+      {
+        "text": "I was awed by the beauty when I found",
+        "start": 0.3399999999999892,
+        "end": 7.9199999999999875
+      },
+      {
+        "text": "myself thinking this is where I belong",
+        "start": 4.989999999999995,
+        "end": 11.679999999999993
+      },
+      {
+        "text": "[Music]",
+        "start": 7.9199999999999875,
+        "end": 11.679999999999993
+      }
+    ],
+    "transcript": [
+      {
+        "text": "I was awed by the beauty and I found myself thinking, this is where I belong.",
+        "start": 1.01,
+        "end": 7.77
+      }
+    ]
+  },
+  {
+    "scene_number": 9,
+    "start_frame": 3002,
+    "end_frame": 3291,
+    "start_time": 120.08,
+    "end_time": 131.68,
+    "duration": 11.600000000000009,
+    "scene_path": "videos/_1DDhUnyvwY/_1DDhUnyvwY_scenes_new/scene_009.mp4",
+    "processed_frames_folder": "videos/_1DDhUnyvwY/_1DDhUnyvwY_scenes_new/processed_frames/scene_009",
+    "captions": [
+      {
+        "text": "together the two hands ease and the",
+        "start": 1.2900000000000063,
+        "end": 6.490000000000009
+      },
+      {
+        "text": "baboons and the monkeys the birds and",
+        "start": 3.8799999999999955,
+        "end": 9.428999999999988
+      },
+      {
+        "text": "insects the teeming life of the vibrant",
+        "start": 6.489999999999995,
+        "end": 11.600000000000009
+      }
+    ],
+    "transcript": []
+  },
+  {
+    "scene_number": 10,
+    "start_frame": 3292,
+    "end_frame": 3656,
+    "start_time": 131.68,
+    "end_time": 146.28,
+    "duration": 14.599999999999994,
+    "scene_path": "videos/_1DDhUnyvwY/_1DDhUnyvwY_scenes_new/scene_010.mp4",
+    "processed_frames_folder": "videos/_1DDhUnyvwY/_1DDhUnyvwY_scenes_new/processed_frames/scene_010",
+    "captions": [
+      {
+        "text": "forest the stirrings of the never still",
+        "start": 0,
+        "end": 4.249999999999972
+      },
+      {
+        "text": "waters of the great lake formed one",
+        "start": 0.9199999999999875,
+        "end": 6.579999999999984
+      },
+      {
+        "text": "whole",
+        "start": 4.25,
+        "end": 6.5800000000000125
+      },
+      {
+        "text": "one",
+        "start": 7.439999999999998,
+        "end": 10.439999999999998
+      }
+    ],
+    "transcript": []
+  },
+  {
+    "scene_number": 11,
+    "start_frame": 3657,
+    "end_frame": 4064,
+    "start_time": 146.28,
+    "end_time": 162.6,
+    "duration": 16.319999999999993,
+    "scene_path": "videos/_1DDhUnyvwY/_1DDhUnyvwY_scenes_new/scene_011.mp4",
+    "processed_frames_folder": "videos/_1DDhUnyvwY/_1DDhUnyvwY_scenes_new/processed_frames/scene_011",
+    "captions": [
+      {
+        "text": "[Applause]",
+        "start": 0,
+        "end": 2.3189999999999884
+      }
+    ],
+    "transcript": []
+  }
+]
