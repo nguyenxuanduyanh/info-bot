@@ -1,4 +1,5 @@
 # info_bot_api.py
+from typing import Optional
 from fastapi import FastAPI, Request
 from pydantic import BaseModel
 import subprocess
@@ -22,7 +23,7 @@ logger = logging.getLogger("info_bot")
 app = FastAPI()
 
 class QueryModel(BaseModel):
-    question: str
+    question: Optional[str] = None
     current_time: str
     video_id: str
 
@@ -70,6 +71,9 @@ async def receive_data(data: QueryModel):
     FastAPI endpoint that receives query data and calls the separate video_query.py script
     """
     logger.info(f"Received request: {data}")
+
+    if data.question is None:
+        data.question = "Describe this science"
     
     # Create command to run the video_query.py script
     video_query_script = "video_query.py"  # Path to your script
