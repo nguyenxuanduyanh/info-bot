@@ -1,4 +1,0 @@
-2025-03-22 13:05:48,298 - info_bot - INFO - Starting Info Bot API server
-2025-03-22 13:08:33,908 - info_bot - INFO - Received request: question='What animals are shown in this scene?' current_time='123' video_id='_1DDhUnyvwY'
-2025-03-22 13:08:33,909 - info_bot - INFO - Running command: python video_query.py _1DDhUnyvwY 123 What animals are shown in this scene?
-2025-03-22 13:08:39,391 - info_bot - INFO - Successfully processed request, response in videos/_1DDhUnyvwY/_1DDhUnyvwY_query_123s.txt
