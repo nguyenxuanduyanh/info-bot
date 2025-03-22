@@ -1,0 +1,578 @@
+[
+    {
+        "scene_number": 1,
+        "start_frame": 0,
+        "end_frame": 383,
+        "start_time": 0.0,
+        "end_time": 15.36,
+        "duration": 15.36,
+        "scene_path": "videos/_1DDhUnyvwY/_1DDhUnyvwY_scenes/scene_001.mp4",
+        "transcript": [],
+        "captions": [],
+        "audio_clips": [
+            {
+                "start_time": 0.0,
+                "text": "The Earth slowly rotates against a black background.",
+                "type": "visual"
+            },
+            {
+                "start_time": 3.5,
+                "text": "The camera zooms in on Africa, highlighting the continent's geography.",
+                "type": "visual"
+            },
+            {
+                "start_time": 6.0,
+                "text": "The view transitions to a detailed 3D map of a lush green landscape with mountains and a coastline.",
+                "type": "visual"
+            },
+            {
+                "start_time": 8.5,
+                "text": "The scene shifts to a dense forest with sunlight filtering through the leaves.",
+                "type": "visual"
+            }
+        ]
+    },
+    {
+        "scene_number": 2,
+        "start_frame": 384,
+        "end_frame": 698,
+        "start_time": 15.36,
+        "end_time": 27.96,
+        "duration": 12.600000000000001,
+        "scene_path": "videos/_1DDhUnyvwY/_1DDhUnyvwY_scenes/scene_002.mp4",
+        "transcript": [],
+        "captions": [],
+        "audio_clips": [
+            {
+                "start_time": 0.0,
+                "text": "Gombe National Park\nTanzania",
+                "type": "text"
+            },
+            {
+                "start_time": 5.0,
+                "text": "With words and narration by\nJane Goodall",
+                "type": "text"
+            },
+            {
+                "start_time": 7.0,
+                "text": "A serene forest scene with sunlight filtering through dense green foliage.",
+                "type": "visual"
+            }
+        ]
+    },
+    {
+        "scene_number": 3,
+        "start_frame": 699,
+        "end_frame": 895,
+        "start_time": 27.96,
+        "end_time": 35.84,
+        "duration": 7.880000000000003,
+        "scene_path": "videos/_1DDhUnyvwY/_1DDhUnyvwY_scenes/scene_003.mp4",
+        "transcript": [
+            {
+                "text": "I remember I was struck by the harmony of color in the forest.",
+                "start": 0.33,
+                "end": 4.09
+            },
+            {
+                "text": "Shades of yellow and green deepening to...",
+                "start": 4.73,
+                "end": 7.85
+            }
+        ],
+        "captions": [],
+        "audio_clips": [
+            {
+                "start_time": 0.0,
+                "text": "A large tree with a thick trunk and sprawling branches dominates the center of the frame, surrounded by lush green foliage.",
+                "type": "visual"
+            },
+            {
+                "start_time": 3.5,
+                "text": "The scene transitions to a small stream flowing over rocks, with sunlight filtering through the trees above.",
+                "type": "visual"
+            },
+            {
+                "start_time": 7.0,
+                "text": "A close-up shot reveals a butterfly resting on the forest floor amidst fallen leaves and twigs.",
+                "type": "visual"
+            }
+        ]
+    },
+    {
+        "scene_number": 4,
+        "start_frame": 896,
+        "end_frame": 1131,
+        "start_time": 35.84,
+        "end_time": 45.28,
+        "duration": 9.439999999999998,
+        "scene_path": "videos/_1DDhUnyvwY/_1DDhUnyvwY_scenes/scene_004.mp4",
+        "transcript": [
+            {
+                "text": "the browns and purples, and the way the vines curled up through the trees",
+                "start": 0.0,
+                "end": 4.86
+            },
+            {
+                "text": "clinging to twigs and branches, the gentle breeze rustling",
+                "start": 4.86,
+                "end": 9.44
+            }
+        ],
+        "captions": [],
+        "audio_clips": [
+            {
+                "start_time": 0.0,
+                "text": "A butterfly flutters among fallen leaves on the forest floor.",
+                "type": "visual"
+            },
+            {
+                "start_time": 5.0,
+                "text": "A spider web glistens in sunlight, entwined around a plant.",
+                "type": "visual"
+            },
+            {
+                "start_time": 10.0,
+                "text": "A wide shot of a tree canopy with sunlight filtering through the leaves.",
+                "type": "visual"
+            }
+        ]
+    },
+    {
+        "scene_number": 5,
+        "start_frame": 1132,
+        "end_frame": 1375,
+        "start_time": 45.28,
+        "end_time": 55.04,
+        "duration": 9.759999999999998,
+        "scene_path": "videos/_1DDhUnyvwY/_1DDhUnyvwY_scenes/scene_005.mp4",
+        "transcript": [
+            {
+                "text": "the leaves so that the shining stars of light gleamed and winked.",
+                "start": 0.0,
+                "end": 4.26
+            }
+        ],
+        "captions": [],
+        "audio_clips": [
+            {
+                "start_time": 0.0,
+                "text": "The sun shines through the dense canopy of a large tree, creating a dappled pattern of light and shadow on the forest floor below.",
+                "type": "visual"
+            },
+            {
+                "start_time": 5.0,
+                "text": "The camera pans out to reveal a vast, lush landscape with rolling hills covered in greenery under a bright blue sky dotted with fluffy white clouds.",
+                "type": "visual"
+            }
+        ]
+    },
+    {
+        "scene_number": 6,
+        "start_frame": 1376,
+        "end_frame": 1623,
+        "start_time": 55.04,
+        "end_time": 64.96,
+        "duration": 9.919999999999995,
+        "scene_path": "videos/_1DDhUnyvwY/_1DDhUnyvwY_scenes/scene_006.mp4",
+        "transcript": [
+            {
+                "text": "I was keenly aware of secret movements in the trees.",
+                "start": 0.0,
+                "end": 3.26
+            }
+        ],
+        "captions": [],
+        "audio_clips": [
+            {
+                "start_time": 0.0,
+                "text": "A close-up view of a plant with green leaves and some brown, dried-out leaves. Small white insects are flying around the plant.",
+                "type": "visual"
+            },
+            {
+                "start_time": 5.0,
+                "text": "The camera pans up to show a broader view of a tree with lush green foliage. A monkey is seen peeking out from behind the branches.",
+                "type": "visual"
+            }
+        ]
+    },
+    {
+        "scene_number": 7,
+        "start_frame": 1624,
+        "end_frame": 1919,
+        "start_time": 64.96,
+        "end_time": 76.8,
+        "duration": 11.840000000000003,
+        "scene_path": "videos/_1DDhUnyvwY/_1DDhUnyvwY_scenes/scene_007.mp4",
+        "transcript": [
+            {
+                "text": "I looked into his large and lustrous eyes.",
+                "start": 7.05,
+                "end": 9.71
+            },
+            {
+                "text": "They seemed somehow to explain",
+                "start": 10.07,
+                "end": 11.81
+            }
+        ],
+        "captions": [],
+        "audio_clips": [
+            {
+                "start_time": 0.0,
+                "text": "A chimpanzee is perched high in a tree, surrounded by lush green foliage.",
+                "type": "visual"
+            },
+            {
+                "start_time": 3.5,
+                "text": "The chimpanzee stretches its arms wide, appearing to interact with something off-screen.",
+                "type": "visual"
+            },
+            {
+                "start_time": 6.0,
+                "text": "The chimpanzee looks directly at the camera, mouth slightly open, as if reacting to the viewer.",
+                "type": "visual"
+            }
+        ]
+    },
+    {
+        "scene_number": 8,
+        "start_frame": 1920,
+        "end_frame": 2175,
+        "start_time": 76.8,
+        "end_time": 87.04,
+        "duration": 10.240000000000009,
+        "scene_path": "videos/_1DDhUnyvwY/_1DDhUnyvwY_scenes/scene_008.mp4",
+        "transcript": [
+            {
+                "text": "expresses entire personality,",
+                "start": 0.0,
+                "end": 1.74
+            },
+            {
+                "text": "his serene self-assurance.",
+                "start": 2.24,
+                "end": 4.24
+            },
+            {
+                "text": "What an amazing privilege it was",
+                "start": 4.72,
+                "end": 7.6
+            },
+            {
+                "text": "to be utterly accepted thus",
+                "start": 7.6,
+                "end": 10.04
+            }
+        ],
+        "captions": [],
+        "audio_clips": [
+            {
+                "start_time": 0.0,
+                "text": "A chimpanzee is perched high in a tree, surrounded by lush green foliage.",
+                "type": "visual"
+            },
+            {
+                "start_time": 3.5,
+                "text": "A chimpanzee is sitting on the ground with another chimpanzee lying down next to it, both surrounded by greenery.",
+                "type": "visual"
+            },
+            {
+                "start_time": 7.0,
+                "text": "A chimpanzee is climbing up a tree trunk in a dense forest setting.",
+                "type": "visual"
+            }
+        ]
+    },
+    {
+        "scene_number": 9,
+        "start_frame": 2176,
+        "end_frame": 2431,
+        "start_time": 87.04,
+        "end_time": 97.28,
+        "duration": 10.239999999999995,
+        "scene_path": "videos/_1DDhUnyvwY/_1DDhUnyvwY_scenes/scene_009.mp4",
+        "transcript": [
+            {
+                "text": "by a wild free animal I lay there",
+                "start": 0.14,
+                "end": 9.83
+            }
+        ],
+        "captions": [],
+        "audio_clips": [
+            {
+                "start_time": 0.0,
+                "text": "A chimpanzee is perched high in a tree, surrounded by lush green foliage.",
+                "type": "visual"
+            },
+            {
+                "start_time": 4.5,
+                "text": "A baboon walks towards the camera in a forested area.",
+                "type": "visual"
+            },
+            {
+                "start_time": 7.5,
+                "text": "The camera pans up to show a tall tree with sunlight filtering through its branches.",
+                "type": "visual"
+            }
+        ]
+    },
+    {
+        "scene_number": 10,
+        "start_frame": 2432,
+        "end_frame": 2628,
+        "start_time": 97.28,
+        "end_time": 105.16,
+        "duration": 7.8799999999999955,
+        "scene_path": "videos/_1DDhUnyvwY/_1DDhUnyvwY_scenes/scene_010.mp4",
+        "transcript": [
+            {
+                "text": "of the forest and experienced again that magical enhancement of sound, that added richness of perception.",
+                "start": 0.0,
+                "end": 6.84
+            }
+        ],
+        "captions": [],
+        "audio_clips": [
+            {
+                "start_time": 0.0,
+                "text": "A tall tree trunk dominates the frame, with sunlight filtering through its branches.",
+                "type": "visual"
+            },
+            {
+                "start_time": 3.5,
+                "text": "A yellow insect perches on a dry leaf, its antennae twitching slightly.",
+                "type": "visual"
+            },
+            {
+                "start_time": 7.0,
+                "text": "A green snake slithers along a moss-covered tree trunk, its body moving smoothly.",
+                "type": "visual"
+            }
+        ]
+    },
+    {
+        "scene_number": 11,
+        "start_frame": 2629,
+        "end_frame": 2815,
+        "start_time": 105.16,
+        "end_time": 112.64,
+        "duration": 7.480000000000004,
+        "scene_path": "videos/_1DDhUnyvwY/_1DDhUnyvwY_scenes/scene_011.mp4",
+        "transcript": [
+            {
+                "text": "I was awed by the beauty.",
+                "start": 4.27,
+                "end": 6.01
+            }
+        ],
+        "captions": [],
+        "audio_clips": [
+            {
+                "start_time": 0.0,
+                "text": "A waterfall cascades down a rocky cliff, surrounded by lush greenery.",
+                "type": "visual"
+            },
+            {
+                "start_time": 3.5,
+                "text": "A close-up of a green caterpillar climbing up a plant stem.",
+                "type": "visual"
+            },
+            {
+                "start_time": 7.0,
+                "text": "Butterflies flutter among vibrant green foliage, adding to the serene natural setting.",
+                "type": "visual"
+            }
+        ]
+    },
+    {
+        "scene_number": 12,
+        "start_frame": 2816,
+        "end_frame": 3001,
+        "start_time": 112.64,
+        "end_time": 120.08,
+        "duration": 7.439999999999998,
+        "scene_path": "videos/_1DDhUnyvwY/_1DDhUnyvwY_scenes/scene_012.mp4",
+        "transcript": [
+            {
+                "text": "And I found myself thinking, this is where I belong.",
+                "start": 0.0,
+                "end": 3.38
+            }
+        ],
+        "captions": [],
+        "audio_clips": [
+            {
+                "start_time": 0.0,
+                "text": "A serene landscape unfolds, featuring rolling hills covered in lush green vegetation.",
+                "type": "visual"
+            },
+            {
+                "start_time": 5.0,
+                "text": "The camera pans across the scenic view, revealing a vast expanse of hills meeting the horizon under a clear blue sky.",
+                "type": "visual"
+            },
+            {
+                "start_time": 10.0,
+                "text": "A bird soars gracefully through the air, adding to the tranquil atmosphere of the scene.",
+                "type": "visual"
+            }
+        ]
+    },
+    {
+        "scene_number": 13,
+        "start_frame": 3002,
+        "end_frame": 3199,
+        "start_time": 120.08,
+        "end_time": 128.0,
+        "duration": 7.920000000000002,
+        "scene_path": "videos/_1DDhUnyvwY/_1DDhUnyvwY_scenes/scene_013.mp4",
+        "transcript": [
+            {
+                "text": "Together the chimpanzees and the baboons and the monkeys, the birds and insects, the",
+                "start": 1.58,
+                "end": 7.9
+            }
+        ],
+        "captions": [],
+        "audio_clips": [
+            {
+                "start_time": 0.0,
+                "text": "A close-up of a chimpanzee gripping a tree branch.",
+                "type": "visual"
+            },
+            {
+                "start_time": 3.5,
+                "text": "A baboon is seen grooming another baboon's fur.",
+                "type": "visual"
+            },
+            {
+                "start_time": 7.0,
+                "text": "A white insect with feathery appendages is perched on a leaf.",
+                "type": "visual"
+            }
+        ]
+    },
+    {
+        "scene_number": 14,
+        "start_frame": 3200,
+        "end_frame": 3379,
+        "start_time": 128.0,
+        "end_time": 135.2,
+        "duration": 7.199999999999989,
+        "scene_path": "videos/_1DDhUnyvwY/_1DDhUnyvwY_scenes/scene_014.mp4",
+        "transcript": [
+            {
+                "text": "the teeming life of the vibrant forest the stirrings of the never still waters of the great lake",
+                "start": 0.0,
+                "end": 5.88
+            }
+        ],
+        "captions": [],
+        "audio_clips": [
+            {
+                "start_time": 0.0,
+                "text": "The camera pans across a dense forest canopy, showcasing lush green foliage swaying gently in the breeze.",
+                "type": "visual"
+            },
+            {
+                "start_time": 3.5,
+                "text": "The camera shifts to reveal a vast expanse of water under a cloudy sky, hinting at a serene yet dynamic environment.",
+                "type": "visual"
+            }
+        ]
+    },
+    {
+        "scene_number": 15,
+        "start_frame": 3380,
+        "end_frame": 3656,
+        "start_time": 135.2,
+        "end_time": 146.28,
+        "duration": 11.080000000000013,
+        "scene_path": "videos/_1DDhUnyvwY/_1DDhUnyvwY_scenes/scene_015.mp4",
+        "transcript": [
+            {
+                "text": "formed one whole.",
+                "start": 0.0,
+                "end": 1.1
+            }
+        ],
+        "captions": [],
+        "audio_clips": [
+            {
+                "start_time": 0.0,
+                "text": "A vast expanse of rolling hills and mountains stretches out, bordered by a deep blue body of water.",
+                "type": "visual"
+            },
+            {
+                "start_time": 5.0,
+                "text": "The camera moves through a dense forest, capturing the intricate details of the trees and the dappled sunlight filtering through the leaves.",
+                "type": "visual"
+            }
+        ]
+    },
+    {
+        "scene_number": 16,
+        "start_frame": 3657,
+        "end_frame": 4064,
+        "start_time": 146.28,
+        "end_time": 162.6,
+        "duration": 16.319999999999993,
+        "scene_path": "videos/_1DDhUnyvwY/_1DDhUnyvwY_scenes/scene_016.mp4",
+        "transcript": [],
+        "captions": [],
+        "audio_clips": [
+            {
+                "start_time": 0.0,
+                "text": "Hello Gombe.",
+                "type": "text"
+            },
+            {
+                "start_time": 4.0,
+                "text": "Hello world.",
+                "type": "text"
+            },
+            {
+                "start_time": 6.0,
+                "text": "Google Maps",
+                "type": "text"
+            },
+            {
+                "start_time": 8.0,
+                "text": "Explore Gombe at g.co/treks",
+                "type": "text"
+            },
+            {
+                "start_time": 10.0,
+                "text": "Created in partnership with the Jane Goodall Institute",
+                "type": "text"
+            },
+            {
+                "start_time": 12.0,
+                "text": "Learn more at JaneGoodall.org",
+                "type": "text"
+            },
+            {
+                "start_time": 14.0,
+                "text": "Audio read by Jane Goodall",
+                "type": "text"
+            },
+            {
+                "start_time": 16.0,
+                "text": "from Reason for Hope: A Spiritual Journey",
+                "type": "text"
+            },
+            {
+                "start_time": 18.0,
+                "text": "by Jane Goodall with Phillip Berman",
+                "type": "text"
+            },
+            {
+                "start_time": 20.0,
+                "text": "Copyright \u00a9 1999 by Soko Publications Ltd. and Phillip Berman. Used by permission of Hachette Audio. All rights reserved worldwide",
+                "type": "text"
+            }
+        ]
+    }
+]

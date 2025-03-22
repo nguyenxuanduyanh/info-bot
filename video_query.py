@@ -40,8 +40,8 @@ def format_captions(captions_list):
 def query_video_scene_with_api(video_id, timestamp, query):
     """Query a specific video scene using the Qwen2.5-VL-72B API"""
     # Load scene info
-    scene_info_path = f"videos/{video_id}/{video_id}_scenes_new/scene_info.json"
-    print(scene_info_path)
+    scene_info_path = f"videos/{video_id}/{video_id}_scenes/scene_info.json"
+    #print(scene_info_path)
     try:
         with open(scene_info_path, "r") as f:
             scene_info = json.load(f)
@@ -108,9 +108,8 @@ def query_video_scene_with_api(video_id, timestamp, query):
     USER QUERY:
     {query}
     
-    Please analyze the video scene and respond to the user's query.
-    Focus on what is visible and happening at timestamp {timestamp}s (within this scene),
-    considering both visual content and available transcript/captions.
+    IMPORTANT: Provide a concise response in 1-2 sentenes maximum.
+    Focus only on directly answering the question about timestampe {timestamp}s". 
     """
     
     # Read and encode the video
@@ -134,7 +133,9 @@ def query_video_scene_with_api(video_id, timestamp, query):
                     {"type": "video_url", "video_url": {"url": f"data:video/mp4;base64,{encoded_video}"}}
                 ]}
             ],
-            max_tokens=2000
+            max_tokens=200,
+            temperature=0.3,
+            timeout=60
         )
         
         # Extract response
@@ -161,7 +162,7 @@ def main():
     print(response)
     
     # Save response to file
-    output_file = f"{args.video_id}_query_{int(args.timestamp)}s.txt"
+    output_file = f"videos/{args.video_id}/{args.video_id}_query_{int(args.timestamp)}s.txt"
     with open(output_file, "w") as f:
         f.write(response)
     print(f"\nResponse saved to {output_file}")

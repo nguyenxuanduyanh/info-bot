@@ -99,7 +99,7 @@ async def receive_data(data: QueryModel):
             }
         
         # Check for response file
-        response_file = f"{data.video_id}_query_{int(float(data.current_time))}s.txt"
+        response_file = f"videos/{data.video_id}/{data.video_id}_query_{int(float(data.current_time))}s.txt"
         response_text = await get_response_from_file(response_file)
         
         if response_text:
