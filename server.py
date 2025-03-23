@@ -73,7 +73,7 @@ async def receive_data(data: QueryModel):
     logger.info(f"Received request: {data}")
 
     if data.question is None:
-        data.question = "Describe this science"
+        data.question = "Describe the scene"
     
     # Create command to run the video_query.py script
     video_query_script = "video_query.py"  # Path to your script
